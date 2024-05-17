@@ -1,2 +1,2 @@
 pip install growattServer==1.4.0
-import requests
+pip install --upgrade pip
